@@ -1,0 +1,24 @@
+Moving average
+short term crosses long term from below	BUY
+short term crosses long term from above	SELL
+
+MACD	Uses expo MA	MACD = eMA(price, fast=12) - eMA(price, slow=26)
+			Signal = eMA(MACD, 9)
+MACD cuts signal from below		BULLISH
+MACS cuts signal from above			BEARISH
+*many false positives, to be used as confirmatory signal*
+
+Bollinger Bands
+Price touching upper band			SELL
+Price touching lower band			BUY
+*Always use signals in sync with the overall trend. For eg, if the trend is bearish, consider only SELL signals (price touching upper band)
+
+RSI
+0-30	Oversold		BUY
+70-100	Overbought	SELL
+
+ADX
+0-25	Absent/weak
+25-50	Strong
+50-75	Very strong
+75-100	Extremely strong
