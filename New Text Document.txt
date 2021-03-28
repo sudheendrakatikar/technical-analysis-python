@@ -1,3 +1,4 @@
+
 Moving average
 short term crosses long term from below	BUY
 short term crosses long term from above	SELL
@@ -22,3 +23,11 @@ ADX
 25-50	Strong
 50-75	Very strong
 75-100	Extremely strong
+
+True range = MAX(high - low, high - y_close, low - y_close)
+t_high - y_high > y_low - t_low => DM+ = t_high - y_high	else 0
+
+William %R = HighestHigh(t) - Close / HighestHigh(t) - LowestLow(t)
+0-20	Overbought	SELL
+80-100	Oversold		BUY
+

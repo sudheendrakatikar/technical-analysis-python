@@ -1,18 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar 20 21:46:15 2021
+Relative Strength Index
+Range    Signal
+0-30     BUY
+70-100   SELL
 
-@author: blackmagic
 """
 
 from datetime import datetime, timedelta
 import yfinance as yf
-import pandas as pd
 import numpy as np
 
-stock = 'MSFT'
+stock = 'TSLA'
 end = datetime.today().strftime('%Y-%m-%d')
-start = (datetime.today() - timedelta(60)).strftime('%Y-%m-%d')
+start = (datetime.today() - timedelta(360)).strftime('%Y-%m-%d')
 t = 14
 
 data = yf.download(stock, start, end)
@@ -20,7 +21,6 @@ data = yf.download(stock, start, end)
 data['delta'] = data['Close'] - data['Close'].shift(1)
 data['gain'] = np.where(data['delta']>0, data['delta'], 0)
 data['loss'] = np.where(data['delta']<0, abs(data['delta']), 0)
-data.drop(['Volume', 'delta'], axis=1, inplace=True)
 
 avg_gain = []
 avg_loss = []
@@ -41,5 +41,6 @@ data['avg_loss'] = np.array(avg_loss)
 data['rs'] = data['avg_gain']/data['avg_loss']
 data['rsi'] = 100 - 100/(1+data['rs'])
 
-
-data['rsi'].plot(title='RSI: MSFT')
+ax = data['rsi'].plot(title='RSI: '+stock, ylim=(0,100))
+ax.axhline(y=70, color='red', ls=':')
+ax.axhline(y=30, color='green', ls=':')
