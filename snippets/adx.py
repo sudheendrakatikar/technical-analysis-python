@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar 27 22:48:02 2021
-
-@author: blackmagic
+Average Directional Index
+Range    Strength
+0-25     Absent/Weak
+25-50    Strong
+50-75    Very strong
+75-100   Extremely strong
 """
 
