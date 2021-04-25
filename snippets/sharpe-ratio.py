@@ -20,7 +20,9 @@ def cagr(data, n):
 def volatility(data):
     return data.pct_change().std() * np.sqrt(252)
 
-Rx = cagr(data['Close'], n)
-Vx = volatility(data['Close'])
+def sharpe(data, n):
+    Rx = cagr(data['Close'], n)
+    Vx = volatility(data['Close'])
+    return (Rx - Rf)/Vx
 
-Sx = (Rx - Rf)/Vx
+sharpe_ratio = sharpe(data, n)
