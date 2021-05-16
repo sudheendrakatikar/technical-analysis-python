@@ -31,3 +31,6 @@ William %R = HighestHigh(t) - Close / HighestHigh(t) - LowestLow(t)
 0-20	Overbought	SELL
 80-100	Oversold		BUY
 
+On Balance Volume
+OBV = OBV_prev +- volume
+
