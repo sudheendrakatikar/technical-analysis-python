@@ -1,0 +1,717 @@
+BUY
+['ZION', 'LYV', 'HBAN', 'KEY', 'FITB', 'NKTR']
+Portolio => ['ZION', 'LYV', 'HBAN', 'KEY', 'FITB', 'NKTR']
+SELL
+['ZION', 'FITB', 'KEY']
+Intermediate P => ['LYV', 'HBAN', 'NKTR']
+BUY
+['CLF', 'UAL', 'AAL']
+Portolio => ['LYV', 'HBAN', 'NKTR', 'CLF', 'UAL', 'AAL']
+SELL
+['AAL', 'LYV', 'HBAN']
+Intermediate P => ['NKTR', 'CLF', 'UAL']
+BUY
+['TPR', 'AIG', 'CNC']
+Portolio => ['NKTR', 'CLF', 'UAL', 'TPR', 'AIG', 'CNC']
+SELL
+['CLF', 'NKTR', 'CNC']
+Intermediate P => ['UAL', 'TPR', 'AIG']
+BUY
+['GL', 'URI', 'NFLX']
+Portolio => ['UAL', 'TPR', 'AIG', 'GL', 'URI', 'NFLX']
+SELL
+['GL', 'TPR', 'URI']
+Intermediate P => ['UAL', 'AIG', 'NFLX']
+BUY
+['AAL', 'TMUS', 'KDP']
+Portolio => ['UAL', 'AIG', 'NFLX', 'AAL', 'TMUS', 'KDP']
+SELL
+['TMUS', 'AIG', 'AAL']
+Intermediate P => ['UAL', 'NFLX', 'KDP']
+BUY
+['GL', 'TPR', 'NEM']
+Portolio => ['UAL', 'NFLX', 'KDP', 'GL', 'TPR', 'NEM']
+SELL
+['GL', 'NEM', 'NFLX']
+Intermediate P => ['UAL', 'KDP', 'TPR']
+BUY
+['URI', 'CTXS', 'IPG']
+Portolio => ['UAL', 'KDP', 'TPR', 'URI', 'CTXS', 'IPG']
+SELL
+['URI', 'UAL', 'IPG']
+Intermediate P => ['KDP', 'TPR', 'CTXS']
+BUY
+['GL', 'IPGP', 'BKNG']
+Portolio => ['KDP', 'TPR', 'CTXS', 'GL', 'IPGP', 'BKNG']
+SELL
+['KDP', 'GL', 'IPGP']
+Intermediate P => ['TPR', 'CTXS', 'BKNG']
+BUY
+['JBL', 'KMX', 'SII']
+Portolio => ['TPR', 'CTXS', 'BKNG', 'JBL', 'KMX', 'SII']
+SELL
+['CTXS', 'JBL', 'BKNG']
+Intermediate P => ['TPR', 'KMX', 'SII']
+BUY
+['LVS', 'CF', 'AAL']
+Portolio => ['TPR', 'KMX', 'SII', 'LVS', 'CF', 'AAL']
+SELL
+['AAL', 'CF', 'KMX']
+Intermediate P => ['TPR', 'SII', 'LVS']
+BUY
+['IPGP', 'SII', 'UAA']
+Portolio => ['TPR', 'SII', 'LVS', 'IPGP', 'SII', 'UAA']
+SELL
+['LVS', 'UAA', 'TPR']
+Intermediate P => ['SII', 'IPGP', 'SII']
+BUY
+['THC', 'AIG', 'JBL']
+Portolio => ['SII', 'IPGP', 'SII', 'THC', 'AIG', 'JBL']
+SELL
+['AIG', 'THC', 'SII']
+Intermediate P => ['IPGP', 'JBL']
+BUY
+['NVDA', 'MU', 'ISRG', 'MRO']
+Portolio => ['IPGP', 'JBL', 'NVDA', 'MU', 'ISRG', 'MRO']
+SELL
+['NVDA', 'ISRG', 'MU']
+Intermediate P => ['IPGP', 'JBL', 'MRO']
+BUY
+['GL', 'TPR', 'IPGP']
+Portolio => ['IPGP', 'JBL', 'MRO', 'GL', 'TPR', 'IPGP']
+SELL
+['TPR', 'JBL', 'IPGP']
+Intermediate P => ['MRO', 'GL']
+BUY
+['REGN', 'FOSL', 'WDC', 'IRM']
+Portolio => ['MRO', 'GL', 'REGN', 'FOSL', 'WDC', 'IRM']
+SELL
+['GL', 'MRO', 'IRM']
+Intermediate P => ['REGN', 'FOSL', 'WDC']
+BUY
+['TPR', 'BIIB', 'LB']
+Portolio => ['REGN', 'FOSL', 'WDC', 'TPR', 'BIIB', 'LB']
+SELL
+['WDC', 'BIIB', 'LB']
+Intermediate P => ['REGN', 'FOSL', 'TPR']
+BUY
+['EA', 'DISH', 'M']
+Portolio => ['REGN', 'FOSL', 'TPR', 'EA', 'DISH', 'M']
+SELL
+['REGN', 'EA', 'TPR']
+Intermediate P => ['FOSL', 'DISH', 'M']
+BUY
+['GL', 'UAA', 'ULTA']
+Portolio => ['FOSL', 'DISH', 'M', 'GL', 'UAA', 'ULTA']
+SELL
+['GL', 'UAA', 'DISH']
+Intermediate P => ['FOSL', 'M', 'ULTA']
+BUY
+['SII', 'EQT', 'ALXN']
+Portolio => ['FOSL', 'M', 'ULTA', 'SII', 'EQT', 'ALXN']
+SELL
+['FOSL', 'M', 'SII']
+Intermediate P => ['ULTA', 'EQT', 'ALXN']
+BUY
+['GL', 'CF', 'DG']
+Portolio => ['ULTA', 'EQT', 'ALXN', 'GL', 'CF', 'DG']
+SELL
+['CF', 'EQT', 'GL']
+Intermediate P => ['ULTA', 'ALXN', 'DG']
+BUY
+['ALXN', 'INTC', 'KSS']
+Portolio => ['ULTA', 'ALXN', 'DG', 'ALXN', 'INTC', 'KSS']
+SELL
+['DG', 'ALXN', 'ALXN']
+Intermediate P => ['ULTA', 'INTC', 'KSS']
+BUY
+['TPR', 'STX', 'ALGN']
+Portolio => ['ULTA', 'INTC', 'KSS', 'TPR', 'STX', 'ALGN']
+SELL
+['TPR', 'KSS', 'INTC']
+Intermediate P => ['ULTA', 'STX', 'ALGN']
+BUY
+['ABMD', 'ITT', 'URI']
+Portolio => ['ULTA', 'STX', 'ALGN', 'ABMD', 'ITT', 'URI']
+SELL
+['ABMD', 'ULTA', 'ITT']
+Intermediate P => ['STX', 'ALGN', 'URI']
+BUY
+['TGNA', 'VMC', 'DISH']
+Portolio => ['STX', 'ALGN', 'URI', 'TGNA', 'VMC', 'DISH']
+SELL
+['DISH', 'ALGN', 'TGNA']
+Intermediate P => ['STX', 'URI', 'VMC']
+BUY
+['NFLX', 'ILMN', 'AAL']
+Portolio => ['STX', 'URI', 'VMC', 'NFLX', 'ILMN', 'AAL']
+SELL
+['AAL', 'NFLX', 'ILMN']
+Intermediate P => ['STX', 'URI', 'VMC']
+BUY
+['CPRI', 'WHR', 'XEC']
+Portolio => ['STX', 'URI', 'VMC', 'CPRI', 'WHR', 'XEC']
+SELL
+['XEC', 'VMC', 'WHR']
+Intermediate P => ['STX', 'URI', 'CPRI']
+BUY
+['PNR', 'BAC', 'JPM']
+Portolio => ['STX', 'URI', 'CPRI', 'PNR', 'BAC', 'JPM']
+SELL
+['BAC', 'PNR', 'JPM']
+Intermediate P => ['STX', 'URI', 'CPRI']
+BUY
+['AAL', 'EXPE', 'INCY']
+Portolio => ['STX', 'URI', 'CPRI', 'AAL', 'EXPE', 'INCY']
+SELL
+['URI', 'STX', 'CPRI']
+Intermediate P => ['AAL', 'EXPE', 'INCY']
+BUY
+['VRTX', 'AAL', 'UAL']
+Portolio => ['AAL', 'EXPE', 'INCY', 'VRTX', 'AAL', 'UAL']
+SELL
+['VRTX', 'UAL', 'AAL']
+Intermediate P => ['EXPE', 'INCY']
+BUY
+['STZ', 'MPC', 'COG', 'EW']
+Portolio => ['EXPE', 'INCY', 'STZ', 'MPC', 'COG', 'EW']
+SELL
+['EW', 'STZ', 'MPC']
+Intermediate P => ['EXPE', 'INCY', 'COG']
+BUY
+['TMUS', 'WDC', 'CNC']
+Portolio => ['EXPE', 'INCY', 'COG', 'TMUS', 'WDC', 'CNC']
+SELL
+['INCY', 'EXPE', 'COG']
+Intermediate P => ['TMUS', 'WDC', 'CNC']
+BUY
+['DXC', 'CPRI', 'FSLR']
+Portolio => ['TMUS', 'WDC', 'CNC', 'DXC', 'CPRI', 'FSLR']
+SELL
+['CNC', 'WDC', 'CPRI']
+Intermediate P => ['TMUS', 'DXC', 'FSLR']
+BUY
+['ODP', 'NKTR', 'NOW']
+Portolio => ['TMUS', 'DXC', 'FSLR', 'ODP', 'NKTR', 'NOW']
+SELL
+['NOW', 'NKTR', 'TMUS']
+Intermediate P => ['DXC', 'FSLR', 'ODP']
+BUY
+['NFLX', 'URI', 'KMX']
+Portolio => ['DXC', 'FSLR', 'ODP', 'NFLX', 'URI', 'KMX']
+SELL
+['URI', 'NFLX', 'KMX']
+Intermediate P => ['DXC', 'FSLR', 'ODP']
+BUY
+['ANF', 'ODP', 'FB']
+Portolio => ['DXC', 'FSLR', 'ODP', 'ANF', 'ODP', 'FB']
+SELL
+['FB', 'ODP', 'ODP']
+Intermediate P => ['DXC', 'FSLR', 'ANF']
+BUY
+['CLF', 'WDC', 'GNW']
+Portolio => ['DXC', 'FSLR', 'ANF', 'CLF', 'WDC', 'GNW']
+SELL
+['FSLR', 'CLF', 'ANF']
+Intermediate P => ['DXC', 'WDC', 'GNW']
+BUY
+['WELL', 'NFLX', 'BBY']
+Portolio => ['DXC', 'WDC', 'GNW', 'WELL', 'NFLX', 'BBY']
+SELL
+['GNW', 'WDC', 'BBY']
+Intermediate P => ['DXC', 'WELL', 'NFLX']
+BUY
+['STZ', 'ATVI', 'HPQ']
+Portolio => ['DXC', 'WELL', 'NFLX', 'STZ', 'ATVI', 'HPQ']
+SELL
+['WELL', 'NFLX', 'ATVI']
+Intermediate P => ['DXC', 'STZ', 'HPQ']
+BUY
+['BBY', 'AAL', 'ALK']
+Portolio => ['DXC', 'STZ', 'HPQ', 'BBY', 'AAL', 'ALK']
+SELL
+['HPQ', 'DXC', 'ALK']
+Intermediate P => ['STZ', 'BBY', 'AAL']
+BUY
+['WELL', 'TPR', 'GL']
+Portolio => ['STZ', 'BBY', 'AAL', 'WELL', 'TPR', 'GL']
+SELL
+['WELL', 'TPR', 'GL']
+Intermediate P => ['STZ', 'BBY', 'AAL']
+BUY
+['AMD', 'EA', 'FANG']
+Portolio => ['STZ', 'BBY', 'AAL', 'AMD', 'EA', 'FANG']
+SELL
+['AAL', 'STZ', 'FANG']
+Intermediate P => ['BBY', 'AMD', 'EA']
+BUY
+['GME', 'MU', 'NKTR']
+Portolio => ['BBY', 'AMD', 'EA', 'GME', 'MU', 'NKTR']
+SELL
+['MU', 'AMD', 'NKTR']
+Intermediate P => ['BBY', 'EA', 'GME']
+BUY
+['FB', 'RRD', 'OKE']
+Portolio => ['BBY', 'EA', 'GME', 'FB', 'RRD', 'OKE']
+SELL
+['RRD', 'OKE', 'EA']
+Intermediate P => ['BBY', 'GME', 'FB']
+BUY
+['INCY', 'BBY', 'NFLX']
+Portolio => ['BBY', 'GME', 'FB', 'INCY', 'BBY', 'NFLX']
+SELL
+['GME', 'BBY', 'BBY']
+Intermediate P => ['FB', 'INCY', 'NFLX']
+BUY
+['REGN', 'MU', 'LDOS']
+Portolio => ['FB', 'INCY', 'NFLX', 'REGN', 'MU', 'LDOS']
+SELL
+['REGN', 'FB', 'MU']
+Intermediate P => ['INCY', 'NFLX', 'LDOS']
+BUY
+['ABMD', 'CLF', 'FSLR']
+Portolio => ['INCY', 'NFLX', 'LDOS', 'ABMD', 'CLF', 'FSLR']
+SELL
+['CLF', 'LDOS', 'NFLX']
+Intermediate P => ['INCY', 'ABMD', 'FSLR']
+BUY
+['ENDP', 'NKTR', 'INCY']
+Portolio => ['INCY', 'ABMD', 'FSLR', 'ENDP', 'NKTR', 'INCY']
+SELL
+['NKTR', 'FSLR', 'ABMD']
+Intermediate P => ['INCY', 'ENDP', 'INCY']
+BUY
+['TMUS', 'MGM', 'AVGO']
+Portolio => ['INCY', 'ENDP', 'INCY', 'TMUS', 'MGM', 'AVGO']
+SELL
+['TMUS', 'ENDP', 'AVGO']
+Intermediate P => ['INCY', 'INCY', 'MGM']
+BUY
+['ILMN', 'AAL', 'INCY']
+Portolio => ['INCY', 'INCY', 'MGM', 'ILMN', 'AAL', 'INCY']
+SELL
+['INCY', 'INCY', 'INCY']
+Intermediate P => ['MGM', 'ILMN', 'AAL']
+BUY
+['NBR', 'TRIP', 'AKAM']
+Portolio => ['MGM', 'ILMN', 'AAL', 'NBR', 'TRIP', 'AKAM']
+SELL
+['ILMN', 'TRIP', 'MGM']
+Intermediate P => ['AAL', 'NBR', 'AKAM']
+BUY
+['BIG', 'FSLR', 'ATI']
+Portolio => ['AAL', 'NBR', 'AKAM', 'BIG', 'FSLR', 'ATI']
+SELL
+['AKAM', 'AAL', 'FSLR']
+Intermediate P => ['NBR', 'BIG', 'ATI']
+BUY
+['SUN', 'COG', 'CHRW']
+Portolio => ['NBR', 'BIG', 'ATI', 'SUN', 'COG', 'CHRW']
+SELL
+['COG', 'ATI', 'CHRW']
+Intermediate P => ['NBR', 'BIG', 'SUN']
+BUY
+['NFLX', 'ODP', 'EA']
+Portolio => ['NBR', 'BIG', 'SUN', 'NFLX', 'ODP', 'EA']
+SELL
+['SUN', 'EA', 'NFLX']
+Intermediate P => ['NBR', 'BIG', 'ODP']
+BUY
+['VRTX', 'IGT', 'TWTR']
+Portolio => ['NBR', 'BIG', 'ODP', 'VRTX', 'IGT', 'TWTR']
+SELL
+['ODP', 'NBR', 'VRTX']
+Intermediate P => ['BIG', 'IGT', 'TWTR']
+BUY
+['X', 'COO', 'CLF']
+Portolio => ['BIG', 'IGT', 'TWTR', 'X', 'COO', 'CLF']
+SELL
+['CLF', 'IGT', 'COO']
+Intermediate P => ['BIG', 'TWTR', 'X']
+BUY
+['LSI', 'MNST', 'NKTR']
+Portolio => ['BIG', 'TWTR', 'X', 'LSI', 'MNST', 'NKTR']
+SELL
+['NKTR', 'BIG', 'LSI']
+Intermediate P => ['TWTR', 'X', 'MNST']
+BUY
+['ULTA', 'VRTX', 'NKE']
+Portolio => ['TWTR', 'X', 'MNST', 'ULTA', 'VRTX', 'NKE']
+SELL
+['TWTR', 'VRTX', 'X']
+Intermediate P => ['MNST', 'ULTA', 'NKE']
+BUY
+['INCY', 'ABMD', 'ALK']
+Portolio => ['MNST', 'ULTA', 'NKE', 'INCY', 'ABMD', 'ALK']
+SELL
+['ULTA', 'NKE', 'ABMD']
+Intermediate P => ['MNST', 'INCY', 'ALK']
+BUY
+['ODP', 'DISH', 'COTY']
+Portolio => ['MNST', 'INCY', 'ALK', 'ODP', 'DISH', 'COTY']
+SELL
+['DISH', 'MNST', 'INCY']
+Intermediate P => ['ALK', 'ODP', 'COTY']
+BUY
+['ODP', 'KMX', 'RCL']
+Portolio => ['ALK', 'ODP', 'COTY', 'ODP', 'KMX', 'RCL']
+SELL
+['ODP', 'ODP', 'RCL']
+Intermediate P => ['ALK', 'COTY', 'KMX']
+BUY
+['ABMD', 'NEM', 'NFLX']
+Portolio => ['ALK', 'COTY', 'KMX', 'ABMD', 'NEM', 'NFLX']
+SELL
+['ALK', 'NEM', 'NFLX']
+Intermediate P => ['COTY', 'KMX', 'ABMD']
+BUY
+['FSLR', 'TRIP', 'MLM']
+Portolio => ['COTY', 'KMX', 'ABMD', 'FSLR', 'TRIP', 'MLM']
+SELL
+['TRIP', 'MLM', 'FSLR']
+Intermediate P => ['COTY', 'KMX', 'ABMD']
+BUY
+['ABMD', 'URBN', 'SIG']
+Portolio => ['COTY', 'KMX', 'ABMD', 'ABMD', 'URBN', 'SIG']
+SELL
+['URBN', 'ABMD', 'ABMD']
+Intermediate P => ['COTY', 'KMX', 'SIG']
+BUY
+['NFLX', 'RIG', 'CLF']
+Portolio => ['COTY', 'KMX', 'SIG', 'NFLX', 'RIG', 'CLF']
+SELL
+['CLF', 'SIG', 'RIG']
+Intermediate P => ['COTY', 'KMX', 'NFLX']
+BUY
+['MMI', 'HUM', 'AVGO']
+Portolio => ['COTY', 'KMX', 'NFLX', 'MMI', 'HUM', 'AVGO']
+SELL
+['HUM', 'AVGO', 'KMX']
+Intermediate P => ['COTY', 'NFLX', 'MMI']
+BUY
+['COTY', 'ANET', 'CI']
+Portolio => ['COTY', 'NFLX', 'MMI', 'COTY', 'ANET', 'CI']
+SELL
+['COTY', 'COTY', 'CI']
+Intermediate P => ['NFLX', 'MMI', 'ANET']
+BUY
+['AMZN', 'CMG', 'NFLX']
+Portolio => ['NFLX', 'MMI', 'ANET', 'AMZN', 'CMG', 'NFLX']
+SELL
+['MMI', 'ANET', 'CMG']
+Intermediate P => ['NFLX', 'AMZN', 'NFLX']
+BUY
+['WELL', 'ISRG', 'CLF']
+Portolio => ['NFLX', 'AMZN', 'NFLX', 'WELL', 'ISRG', 'CLF']
+SELL
+['ISRG', 'CLF', 'NFLX']
+Intermediate P => ['AMZN', 'WELL']
+BUY
+['TAP', 'JBL', 'ANF', 'NI']
+Portolio => ['AMZN', 'WELL', 'TAP', 'JBL', 'ANF', 'NI']
+SELL
+['WELL', 'ANF', 'JBL']
+Intermediate P => ['AMZN', 'TAP', 'NI']
+BUY
+['TPR', 'KLAC', 'FSLR']
+Portolio => ['AMZN', 'TAP', 'NI', 'TPR', 'KLAC', 'FSLR']
+SELL
+['FSLR', 'KLAC', 'NI']
+Intermediate P => ['AMZN', 'TAP', 'TPR']
+BUY
+['LSI', 'QRVO', 'NKTR']
+Portolio => ['AMZN', 'TAP', 'TPR', 'LSI', 'QRVO', 'NKTR']
+SELL
+['LSI', 'QRVO', 'AMZN']
+Intermediate P => ['TAP', 'TPR', 'NKTR']
+BUY
+['AMD', 'FSLR', 'LIFE']
+Portolio => ['TAP', 'TPR', 'NKTR', 'AMD', 'FSLR', 'LIFE']
+SELL
+['LIFE', 'AMD', 'NKTR']
+Intermediate P => ['TAP', 'TPR', 'FSLR']
+BUY
+['LSI', 'SWN', 'RRC']
+Portolio => ['TAP', 'TPR', 'FSLR', 'LSI', 'SWN', 'RRC']
+SELL
+['LSI', 'SWN', 'RRC']
+Intermediate P => ['TAP', 'TPR', 'FSLR']
+BUY
+['FCX', 'FOSL', 'ATI']
+Portolio => ['TAP', 'TPR', 'FSLR', 'FCX', 'FOSL', 'ATI']
+SELL
+['FOSL', 'FSLR', 'TPR']
+Intermediate P => ['TAP', 'FCX', 'ATI']
+BUY
+['LSI', 'X', 'MUR']
+Portolio => ['TAP', 'FCX', 'ATI', 'LSI', 'X', 'MUR']
+SELL
+['TAP', 'ATI', 'X']
+Intermediate P => ['FCX', 'LSI', 'MUR']
+BUY
+['WELL', 'LSI', 'CLF']
+Portolio => ['FCX', 'LSI', 'MUR', 'WELL', 'LSI', 'CLF']
+SELL
+['WELL', 'LSI', 'LSI']
+Intermediate P => ['FCX', 'MUR', 'CLF']
+BUY
+['DXC', 'NVDA', 'AMD']
+Portolio => ['FCX', 'MUR', 'CLF', 'DXC', 'NVDA', 'AMD']
+SELL
+['FCX', 'NVDA', 'DXC']
+Intermediate P => ['MUR', 'CLF', 'AMD']
+BUY
+['WELL', 'CLF', 'HSY']
+Portolio => ['MUR', 'CLF', 'AMD', 'WELL', 'CLF', 'HSY']
+SELL
+['MUR', 'HSY', 'WELL']
+Intermediate P => ['CLF', 'AMD', 'CLF']
+BUY
+['LSI', 'X', 'ATI']
+Portolio => ['CLF', 'AMD', 'CLF', 'LSI', 'X', 'ATI']
+SELL
+['X', 'CLF', 'CLF']
+Intermediate P => ['AMD', 'LSI', 'ATI']
+BUY
+['LSI', 'GNW', 'ZBRA']
+Portolio => ['AMD', 'LSI', 'ATI', 'LSI', 'GNW', 'ZBRA']
+SELL
+['LSI', 'LSI', 'AMD']
+Intermediate P => ['ATI', 'GNW', 'ZBRA']
+BUY
+['APA', 'WDC', 'NBR']
+Portolio => ['ATI', 'GNW', 'ZBRA', 'APA', 'WDC', 'NBR']
+SELL
+['ATI', 'GNW', 'APA']
+Intermediate P => ['ZBRA', 'WDC', 'NBR']
+BUY
+['AKAM', 'NFLX', 'GPS']
+Portolio => ['ZBRA', 'WDC', 'NBR', 'AKAM', 'NFLX', 'GPS']
+SELL
+['GPS', 'NFLX', 'AKAM']
+Intermediate P => ['ZBRA', 'WDC', 'NBR']
+BUY
+['X', 'CLF', 'ODP']
+Portolio => ['ZBRA', 'WDC', 'NBR', 'X', 'CLF', 'ODP']
+SELL
+['ODP', 'CLF', 'NBR']
+Intermediate P => ['ZBRA', 'WDC', 'X']
+BUY
+['TJX', 'AMD', 'BWA']
+Portolio => ['ZBRA', 'WDC', 'X', 'TJX', 'AMD', 'BWA']
+SELL
+['TJX', 'AMD', 'BWA']
+Intermediate P => ['ZBRA', 'WDC', 'X']
+BUY
+['WELL', 'LIFE', 'ATI']
+Portolio => ['ZBRA', 'WDC', 'X', 'WELL', 'LIFE', 'ATI']
+SELL
+['ATI', 'WDC', 'WELL']
+Intermediate P => ['ZBRA', 'X', 'LIFE']
+BUY
+['AMD', 'ANET', 'GNW']
+Portolio => ['ZBRA', 'X', 'LIFE', 'AMD', 'ANET', 'GNW']
+SELL
+['X', 'LIFE', 'ZBRA']
+Intermediate P => ['AMD', 'ANET', 'GNW']
+BUY
+['NKTR', 'MU', 'FMC']
+Portolio => ['AMD', 'ANET', 'GNW', 'NKTR', 'MU', 'FMC']
+SELL
+['NKTR', 'AMD', 'MU']
+Intermediate P => ['ANET', 'GNW', 'FMC']
+BUY
+['SUN', 'ALGN', 'EW']
+Portolio => ['ANET', 'GNW', 'FMC', 'SUN', 'ALGN', 'EW']
+SELL
+['GNW', 'SUN', 'FMC']
+Intermediate P => ['ANET', 'ALGN', 'EW']
+BUY
+['NVDA', 'FSLR', 'ADSK']
+Portolio => ['ANET', 'ALGN', 'EW', 'NVDA', 'FSLR', 'ADSK']
+SELL
+['ADSK', 'NVDA', 'ANET']
+Intermediate P => ['ALGN', 'EW', 'FSLR']
+BUY
+['SIG', 'AYI', 'ALXN']
+Portolio => ['ALGN', 'EW', 'FSLR', 'SIG', 'AYI', 'ALXN']
+SELL
+['SIG', 'EW', 'AYI']
+Intermediate P => ['ALGN', 'FSLR', 'ALXN']
+BUY
+['NRG', 'FSLR', 'BA']
+Portolio => ['ALGN', 'FSLR', 'ALXN', 'NRG', 'FSLR', 'BA']
+SELL
+['FSLR', 'FSLR', 'BA']
+Intermediate P => ['ALGN', 'ALXN', 'NRG']
+BUY
+['ANF', 'TTWO', 'ANET']
+Portolio => ['ALGN', 'ALXN', 'NRG', 'ANF', 'TTWO', 'ANET']
+SELL
+['ALXN', 'NRG', 'TTWO']
+Intermediate P => ['ALGN', 'ANF', 'ANET']
+BUY
+['LIFE', 'RIG', 'GPS']
+Portolio => ['ALGN', 'ANF', 'ANET', 'LIFE', 'RIG', 'GPS']
+SELL
+['GPS', 'ANF', 'LIFE']
+Intermediate P => ['ALGN', 'ANET', 'RIG']
+BUY
+['CPWR', 'ALGN', 'TWTR']
+Portolio => ['ALGN', 'ANET', 'RIG', 'CPWR', 'ALGN', 'TWTR']
+SELL
+['CPWR', 'RIG', 'TWTR']
+Intermediate P => ['ALGN', 'ANET', 'ALGN']
+BUY
+['NKTR', 'FL', 'LB']
+Portolio => ['ALGN', 'ANET', 'ALGN', 'NKTR', 'FL', 'LB']
+SELL
+['ALGN', 'ALGN', 'ANET']
+Intermediate P => ['NKTR', 'FL', 'LB']
+BUY
+['FCX', 'X', 'DVA']
+Portolio => ['NKTR', 'FL', 'LB', 'FCX', 'X', 'DVA']
+SELL
+['LB', 'FCX', 'FL']
+Intermediate P => ['NKTR', 'X', 'DVA']
+BUY
+['NFLX', 'NKTR', 'AMD']
+Portolio => ['NKTR', 'X', 'DVA', 'NFLX', 'NKTR', 'AMD']
+SELL
+['AMD', 'DVA', 'NKTR']
+Intermediate P => ['X', 'NFLX']
+BUY
+['FOSL', 'TWTR', 'UAA', 'UA']
+Portolio => ['X', 'NFLX', 'FOSL', 'TWTR', 'UAA', 'UA']
+SELL
+['X', 'TWTR', 'FOSL']
+Intermediate P => ['NFLX', 'UAA', 'UA']
+BUY
+['NKTR', 'SWN', 'ALTR']
+Portolio => ['NFLX', 'UAA', 'UA', 'NKTR', 'SWN', 'ALTR']
+SELL
+['NKTR', 'ALTR', 'SWN']
+Intermediate P => ['NFLX', 'UAA', 'UA']
+BUY
+['CMG', 'BKR', 'RIG']
+Portolio => ['NFLX', 'UAA', 'UA', 'CMG', 'BKR', 'RIG']
+SELL
+['BKR', 'CMG', 'RIG']
+Intermediate P => ['NFLX', 'UAA', 'UA']
+BUY
+['THC', 'FOSL', 'SE']
+Portolio => ['NFLX', 'UAA', 'UA', 'THC', 'FOSL', 'SE']
+SELL
+['THC', 'SE', 'UAA']
+Intermediate P => ['NFLX', 'UA', 'FOSL']
+BUY
+['ENDP', 'GNW', 'DISCA']
+Portolio => ['NFLX', 'UA', 'FOSL', 'ENDP', 'GNW', 'DISCA']
+SELL
+['NFLX', 'UA', 'DISCA']
+Intermediate P => ['FOSL', 'ENDP', 'GNW']
+BUY
+['ENDP', 'CLF', 'AMD']
+Portolio => ['FOSL', 'ENDP', 'GNW', 'ENDP', 'CLF', 'AMD']
+SELL
+['FOSL', 'CLF', 'GNW']
+Intermediate P => ['ENDP', 'ENDP', 'AMD']
+BUY
+['ENDP', 'AMD', 'ODP']
+Portolio => ['ENDP', 'ENDP', 'AMD', 'ENDP', 'AMD', 'ODP']
+SELL
+['ODP', 'ENDP', 'ENDP']
+Intermediate P => ['AMD', 'AMD']
+BUY
+['BKR', 'CLF', 'AMD', 'EW']
+Portolio => ['AMD', 'AMD', 'BKR', 'CLF', 'AMD', 'EW']
+SELL
+['AMD', 'AMD', 'AMD']
+Intermediate P => ['BKR', 'CLF', 'EW']
+BUY
+['TWTR', 'CBOE', 'MKTX']
+Portolio => ['BKR', 'CLF', 'EW', 'TWTR', 'CBOE', 'MKTX']
+SELL
+['BKR', 'CLF', 'TWTR']
+Intermediate P => ['EW', 'CBOE', 'MKTX']
+BUY
+['NWL', 'PBI', 'ODP']
+Portolio => ['EW', 'CBOE', 'MKTX', 'NWL', 'PBI', 'ODP']
+SELL
+['PBI', 'NWL', 'ODP']
+Intermediate P => ['EW', 'CBOE', 'MKTX']
+BUY
+['CPWR', 'NEM', 'AVGO']
+Portolio => ['EW', 'CBOE', 'MKTX', 'CPWR', 'NEM', 'AVGO']
+SELL
+['CPWR', 'CBOE', 'NEM']
+Intermediate P => ['EW', 'MKTX', 'AVGO']
+BUY
+['NBR', 'XRX', 'CLF']
+Portolio => ['EW', 'MKTX', 'AVGO', 'NBR', 'XRX', 'CLF']
+SELL
+['EW', 'AVGO', 'CLF']
+Intermediate P => ['MKTX', 'NBR', 'XRX']
+BUY
+['SE', 'COTY', 'ANET']
+Portolio => ['MKTX', 'NBR', 'XRX', 'SE', 'COTY', 'ANET']
+SELL
+['MKTX', 'XRX', 'COTY']
+Intermediate P => ['NBR', 'SE', 'ANET']
+BUY
+['ANF', 'SRCL', 'BIG']
+Portolio => ['NBR', 'SE', 'ANET', 'ANF', 'SRCL', 'BIG']
+SELL
+['BIG', 'ANET', 'NBR']
+Intermediate P => ['SE', 'ANF', 'SRCL']
+BUY
+['QCOM', 'PLL', 'PCG']
+Portolio => ['SE', 'ANF', 'SRCL', 'QCOM', 'PLL', 'PCG']
+SELL
+['ANF', 'PCG', 'QCOM']
+Intermediate P => ['SE', 'SRCL', 'PLL']
+BUY
+['PLL', 'SE', 'COTY']
+Portolio => ['SE', 'SRCL', 'PLL', 'PLL', 'SE', 'COTY']
+SELL
+['PLL', 'PLL', 'SRCL']
+Intermediate P => ['SE', 'SE', 'COTY']
+BUY
+['PCG', 'DVA', 'X']
+Portolio => ['SE', 'SE', 'COTY', 'PCG', 'DVA', 'X']
+SELL
+['PCG', 'COTY', 'X']
+Intermediate P => ['SE', 'SE', 'DVA']
+BUY
+['MAT', 'TWTR', 'ANF']
+Portolio => ['SE', 'SE', 'DVA', 'MAT', 'TWTR', 'ANF']
+SELL
+['MAT', 'ANF', 'SE']
+Intermediate P => ['DVA', 'TWTR']
+BUY
+['TGT', 'RRD', 'MKTX', 'TSN']
+Portolio => ['DVA', 'TWTR', 'TGT', 'RRD', 'MKTX', 'TSN']
+SELL
+['MKTX', 'TSN', 'TWTR']
+Intermediate P => ['DVA', 'TGT', 'RRD']
+BUY
+['RRD', 'GME', 'SIG']
+Portolio => ['DVA', 'TGT', 'RRD', 'RRD', 'GME', 'SIG']
+SELL
+['SIG', 'GME', 'TGT']
+Intermediate P => ['DVA', 'RRD', 'RRD']
+BUY
+['ENDP', 'ALGN', 'BBBY']
+Portolio => ['DVA', 'RRD', 'RRD', 'ENDP', 'ALGN', 'BBBY']
+SELL
+['RRD', 'RRD', 'BBBY']
+Intermediate P => ['DVA', 'ENDP', 'ALGN']
+BUY
+['DXC', 'LIFE', 'QRVO']
+Portolio => ['DVA', 'ENDP', 'ALGN', 'DXC', 'LIFE', 'QRVO']
+SELL
+['LIFE', 'ENDP', 'ALGN']
+Intermediate P => ['DVA', 'DXC', 'QRVO']
+BUY
+['PCG', 'NBR', 'RRC']
+Portolio => ['DVA', 'DXC', 'QRVO', 'PCG', 'NBR', 'RRC']
